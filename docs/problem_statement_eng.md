@@ -23,7 +23,7 @@ As soon as a new order is received, the courier gets a notification and **procee
 - Analyze the geographic distribution of couriers at the time orders are received;
 - Identify areas with oversupply or undersupply of couriers;
 - Propose changes to zones and schedules;
-- Build a prototype interface — a "courier load heatmap" for dispatchers.
+- Build a prototype interface - a "courier load heatmap" for dispatchers.
 
 ---
 
